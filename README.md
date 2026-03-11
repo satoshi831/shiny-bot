@@ -1,3 +1,16 @@
+## Legal
+
+This project is provided for **educational and personal automation purposes only**.
+
+It is **not affiliated with Nintendo, Game Freak, or The Pokémon Company**.
+
+See:
+
+- LICENSE
+- NOTICE
+- DISCLAIMER
+
+
 # Shiny Bot
 
 Automated shiny hunting for **Pokémon FireRed / LeafGreen** on **Nintendo Switch** using a **Mac + Raspberry Pi Pico W**.
@@ -243,4 +256,5 @@ Example:
 - You must **manually save the shiny Pokémon**
 - Display sleep is safe, but **system sleep must be disabled**
 ```
+
 
