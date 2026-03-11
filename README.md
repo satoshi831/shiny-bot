@@ -10,6 +10,8 @@ See:
 - NOTICE
 - DISCLAIMER
 
+This repository is no longer actively maintained.
+Feel free to fork the project and continue development.
 
 # Shiny Bot
 
@@ -256,5 +258,6 @@ Example:
 - You must **manually save the shiny Pokémon**
 - Display sleep is safe, but **system sleep must be disabled**
 ```
+
 
 
